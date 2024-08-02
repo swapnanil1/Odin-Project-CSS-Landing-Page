@@ -22,9 +22,9 @@ A landing page created as part of the Foundations Course, replicating a given de
 
 Clone the repository and open `index.html` in your browser.
 
-## Live Demo (todo)
+## Live Demo
 
-[Live Demo](https://your-github-username.github.io/your-github-repo-name)
+[Live Demo](https://swapnanil1.github.io/Odin-Project-CSS-Landing-Page/)
 
 ## Screenshots (todo)
 
