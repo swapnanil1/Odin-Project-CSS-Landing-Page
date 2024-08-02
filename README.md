@@ -26,10 +26,12 @@ Clone the repository and open `index.html` in your browser.
 
 [Live Demo](https://swapnanil1.github.io/Odin-Project-CSS-Landing-Page/)
 
-## Screenshot
+## Screenshots
 
-![Preview](https://raw.githubusercontent.com/swapnanil1/Odin-Project-CSS-Landing-Page/main/images/screenshot.png)
-![Code](https://raw.githubusercontent.com/swapnanil1/Odin-Project-CSS-Landing-Page/main/images/screenshot2.png)
+- Preview
+  ![Preview](https://raw.githubusercontent.com/swapnanil1/Odin-Project-CSS-Landing-Page/main/images/screenshot.png)
+- Code
+  ![Code](https://raw.githubusercontent.com/swapnanil1/Odin-Project-CSS-Landing-Page/main/images/screenshot2.png)
 
 ## Credits
 
